@@ -1,0 +1,10 @@
+{
+  "title": "中科大交流生存手册",
+  "author": "SWUST Students",
+  "plugins": ["-sharing", "highlight", "search", "back-to-top-button"],
+  "pluginsConfig": {
+    "search": {
+      "maxIndexSize": 1000000
+    }
+  }
+}
